@@ -1,10 +1,4 @@
 p6df::modules::vim::version() { echo "0.0.1" }
-p6df::modules::vim::deps()    {
-	ModuleDeps=()
-}
-
-p6df::modules::vim::external::git() {
-}
 
 p6df::modules::vim::external::brew() {
 
@@ -13,8 +7,6 @@ p6df::modules::vim::external::brew() {
 
 p6df::modules::vim::home::symlink() {
 
-  # XXX: .vim.d + selection
-}
-
-p6df::modules::vim::init() {
+  ln -fs $P6_DFZ_SRC_P6M7G8_DIR/p6df-vim/share/vimrc .vimrc
+  ln -fs $P6_DFZ_SRC_P6M7G8_DIR/p6df-vim/share/vim .vim
 }
