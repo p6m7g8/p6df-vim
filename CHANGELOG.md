@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/p6m7g8/p6df-vim/compare/v2.0.0...v2.1.0) (2020-12-06)
+
+
+### Features
+
+* **api:** centralize ::version() ([2a117f3](https://github.com/p6m7g8/p6df-vim/commit/2a117f38d5279692b0901d2f0e82013e5b96f5ae))
+* **community:** adds CODE_OF_CONDUCT ([192c42d](https://github.com/p6m7g8/p6df-vim/commit/192c42d77727807be5e2af7497aebed7931c42d4))
+* **github:** adds ISSUE_TEMPLATEs ([a0f8f38](https://github.com/p6m7g8/p6df-vim/commit/a0f8f3894a63303206e4db480031381dcb9ca9e5))
+
+
+* **community:** rely on the .github/ in the org ([#10](https://github.com/p6m7g8/p6df-vim/issues/10)) ([c6c4250](https://github.com/p6m7g8/p6df-vim/commit/c6c42507817a94732744acae034a715c5eb296eb))
+* **README:** fixes module expansion, adds CodeCov and Synk badges ([#11](https://github.com/p6m7g8/p6df-vim/issues/11)) ([297f08f](https://github.com/p6m7g8/p6df-vim/commit/297f08f3769fea46d96363a03d1293cb58f44505))
+* **README:** updates to template v2.0 ([61c4ee7](https://github.com/p6m7g8/p6df-vim/commit/61c4ee7212828e41baa9ae0b485e4f6597ebeeec))
+* **semantic:** no longer needed, defaults are fine ([8c12250](https://github.com/p6m7g8/p6df-vim/commit/8c122506773389255f77f5e24b5a7b44a9756a0b))
+
 ## [2.0.0](https://github.com/p6m7g8/p6df-vim/compare/v1.0.1...v2.0.0) (2020-10-11)
 
 
