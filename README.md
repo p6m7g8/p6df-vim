@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-vim:
+
+#### p6df-vim/init.zsh:
 
 - p6df::modules::vim::deps()
 - p6df::modules::vim::external::brew()
