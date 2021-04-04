@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/p6m7g8/p6df-vim/compare/v2.1.0...v2.1.1) (2021-04-04)
+
+
+* **README:** updates generator ([#12](https://github.com/p6m7g8/p6df-vim/issues/12)) ([67cdd7b](https://github.com/p6m7g8/p6df-vim/commit/67cdd7bf58fca64463e856666f698a7a5b0b855a))
+* Coc -> .github ([ff89e42](https://github.com/p6m7g8/p6df-vim/commit/ff89e42d5d3d858037fa1c83fcedb1ad0b2f132f))
+
 ## [2.1.0](https://github.com/p6m7g8/p6df-vim/compare/v2.0.0...v2.1.0) (2020-12-06)
 
 
